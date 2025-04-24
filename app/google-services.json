@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93595933788",
+    "project_id": "isla-bonita-e6e9d",
+    "storage_bucket": "isla-bonita-e6e9d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93595933788:android:d6b4b878b472e0b783da99",
+        "android_client_info": {
+          "package_name": "com.example.spotifycomposeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAf-YTmA7sc1U4PkdA3Q6R7sLZ7u9TXgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
