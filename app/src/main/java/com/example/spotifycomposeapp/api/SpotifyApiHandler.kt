@@ -8,8 +8,8 @@ import com.adamratzman.spotify.models.PagingObject
 import com.adamratzman.spotify.models.Track
 
 class SpotifyApiHandler {
-    private val clientID = "e759a2f67da744f5bc8effdb550fbb8a"
-    private val clientSecret = "0c33b2d7f5e94d24a7d47a1585f9b401"
+    private val clientID = ""
+    private val clientSecret = ""
     private var api: SpotifyAppApi? = null
 
     init {
